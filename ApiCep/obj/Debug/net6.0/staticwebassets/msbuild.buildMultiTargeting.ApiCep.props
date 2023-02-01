@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiCep.props" />
+</Project>
