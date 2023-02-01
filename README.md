@@ -7,18 +7,4 @@ Aplicação feita em C#, para consultar CEP de endereçamento do Brasil. Para Co
 # Imagens 📸
 <img src="gif.gif">
 
-# Exemplo de body response obtido:
-
-
- 
-    "cep": "88302-000",
-    "logradouro": "Rua Brusque",
-    "complemento": "até 517 - lado ímpar",
-    "bairro": "Centro",
-    "localidade": "Itajaí",
-    "uf": "SC",
-    "ibge": "4208203",
-    "gia": "",
-    "ddd": "47",
-    "siafi": "8161"
     
