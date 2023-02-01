@@ -4,7 +4,7 @@ Aplicação feita em C#, para consultar CEP de endereçamento do Brasil. Para Co
 
 -Possui memory cache.
 
-# Imagens 📸
-<img src="gif.gif">
+# Vídeo 📸
+[<img src="apicep.png" width="50%">](https://youtu.be/wBXzLfniLPY)
 
     
