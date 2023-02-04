@@ -7,6 +7,6 @@ Aplicação feita em C#, para consultar CEP de endereçamento do Brasil. Para Co
 -Tratamento de erros.<br>
 
 # Vídeo 📸
-[<img src="apicep.png" width="50%">](https://youtu.be/wBXzLfniLPY)
+[<img src="apicep.png" width="50%">](https://youtu.be/8JYVnMkElC4)
 
     
